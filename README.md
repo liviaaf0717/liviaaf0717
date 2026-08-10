@@ -1,6 +1,8 @@
 <div align="center">
 
-# Oi, eu sou Ana Livia!
+<img src="https://i.makeagif.com/media/6-24-2015/OtOwec.gif" width="300">
+
+# 💜 Ana Livia
 
 ### Desenvolvedora em formação
 
