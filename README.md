@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.makeagif.com/media/6-24-2015/OtOwec.gif" width="300">
+<img src="./natasha.gif" width="350">
 
 # 💜 Ana Livia
 
@@ -9,7 +9,6 @@
 Aprendendo programação e desenvolvimento web.
 
 </div>
-
 ---
 
 ## Sobre mim:
