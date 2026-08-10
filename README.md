@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9D4EDD&height=180&section=header&text=Livia&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-# 💜 Olá, eu sou a Livia!
+💜Ola, eu sou a Ana Livia!
 
-### 👩🏻‍💻 Desenvolvedora em formação
+### Desenvolvedora em formação
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Bem-vinda+ao+meu+GitHub!+💜;Desenvolvimento+Web+✨;Aprendendo+um+pouco+mais+todos+os+dias!+🚀" />
 
@@ -112,7 +112,7 @@ Estou construindo minha experiência passo a passo, aprendendo com cada projeto 
 
 ### ✨ Obrigada por visitar meu perfil! ✨
 
-💜 **Livia — `liviaaf0717`**
+💜 ** Ana Livia — `liviaaf0717`**
 
 <a href="https://github.com/liviaaf0717">
 <img src="https://img.shields.io/badge/Meu%20GitHub-9D4EDD?style=for-the-badge&logo=github&logoColor=white" />
