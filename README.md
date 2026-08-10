@@ -2,7 +2,7 @@
 
 <img src="./iron-man2-black-widow.gif" width="350">
 
-# 💜 Ana Livia
+# Ana Livia
 
 ### Desenvolvedora em formação
 
